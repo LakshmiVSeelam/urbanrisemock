@@ -1965,6 +1965,7 @@ body:not(.is-home):not(.is-index) .site-header.is--hovering .nav-backdrop {
 .nav-top-level-ul > li > a {
       position: relative;
       z-index: 2;
+      color: #fff;
     }
 
 .nav-top-level-ul > li + li {
@@ -1997,6 +1998,7 @@ body:not(.is-home):not(.is-index) .site-header.is--hovering .nav-backdrop {
 
 .nav-subnav > li {
     padding-top: 36px;
+    color: #fff;
   }
 
 .nav-item-primary {
@@ -4126,6 +4128,7 @@ body {
 .video-landing__strapline h2 {
     grid-row: 2;
     padding: 14px 0;
+    color: #fff;
   }
 
 .video-landing__line {
